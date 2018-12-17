@@ -1,0 +1,7 @@
+﻿  Walls.cpp
+  main.cpp
+  drawable.cpp
+  box.cpp
+  ball.cpp
+  Generating Code...
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
